@@ -1,4 +1,4 @@
-# STM Tip Calibration Repository
+# STM Tip Calibration
 
 This repository provides code for two STM tip calibration methods, both optimized for Au(111) surfaces. Each method has specific requirements and compatibility notes detailed below.
 
