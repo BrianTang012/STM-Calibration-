@@ -1,13 +1,13 @@
 # STM Tip Calibration
 
-This repository provides code for the **Method 2: Custom ML Method** designed for STM tip calibration, optimized for Au(111) surfaces. Method 2 is inspired by DeepSPM but focuses on simplicity and reproducibility. The scripts for Method 2 are shared in this repository. However, **Method 1 is based on the open-source DeepSPM project** (available at [DeepSPM GitHub](https://github.com/abred/DeepSPM)), with modifications and optimizations specific to our STM setup and project needs.
+This repository provides code for the **Method 2: Custom ML Method** designed for STM tip calibration, optimized for Au(111) surfaces. Method 2 is inspired by DeepSPM but focuses on simplicity and reproducibility. The scripts for Method 2 are shared in this repository. However, **Method 1 is based on the open-source DeepSPM project** (available at [DeepSPM GitHub](https://github.com/abred/DeepSPM)).
 
 This work is part of my **NTU Final Year Project** for graduation, where I aim to integrate machine learning for autonomous STM tip calibration.
 
 ## Methods Overview
 
 ### Method 1: DeepSPM Classifier-Based Approach (Modified)
-- **Description:** Code for the DeepSPM classifier model used in STM tip calibration. This method has been calibrated and optimized for our STM and project requirements.
+- **Description:** Code for the DeepSPM classifier model used in STM tip calibration. This open-source method has been calibrated and optimized for our STM and project requirements.
 - **Requirements:**
   - Compatible with Python 3.6 to 3.9
   - Requires TensorFlow 1.x
