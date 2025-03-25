@@ -2,6 +2,8 @@
 
 This repository provides code for the **Method 2: Custom ML Method** designed for STM tip calibration, optimized for Au(111) surfaces. Method 2 is inspired by DeepSPM but focuses on simplicity and reproducibility. The scripts for Method 2 are shared in this repository. However, **Method 1 is based on the open-source DeepSPM project** (available at [DeepSPM GitHub](https://github.com/abred/DeepSPM)), with modifications and optimizations specific to our STM setup and project needs.
 
+This work is part of my **NTU Final Year Project** for graduation, where I aim to integrate machine learning for autonomous STM tip calibration.
+
 ## Methods Overview
 
 ### Method 1: DeepSPM Classifier-Based Approach (Modified)
@@ -19,3 +21,4 @@ This repository provides code for the **Method 2: Custom ML Method** designed fo
 
 ## Important Note
 Both Method 1 and Method 2 are based on earlier code versions and may require updates to integrate the latest enhancements for optimal performance.
+
